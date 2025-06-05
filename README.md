@@ -5,7 +5,8 @@ Discover interesting AI ideas (www.everydayai.top)
 ![ai](./logo.png)
 
 
-Discover AI startup project from the latest papers and open source repositories, updated everyday
+Discover AI startup project from the latest papers and open source repositories, updated everyday.
+
 ﻿
 Select the latest 'good ideas' for AI developer from a massive collection of AI papers and Github repositories, 
 ﻿
