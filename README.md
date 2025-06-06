@@ -1,6 +1,7 @@
 # awesome_AI_Startup_ideas
 
 Discover interesting AI ideas (www.everydayai.top)
+
 ![ai](./logo.png)
 
 ## Introduction
