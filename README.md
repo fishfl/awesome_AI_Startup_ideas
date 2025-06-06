@@ -12,7 +12,7 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 
 ## Detail
 
-| ID   | 简介               | 文件地址                                                                 |
+| ID   | Info               | Detail json URL                                                               |
 |:----:|--------------------|--------------------------------------------------------------------------|
 | 101  | Docker 部署文件    | [Dockerfile](https://github.com/myproject/infra/blob/prod/docker/Dockerfile) |
 | 102  | 监控告警配置       | [alerts.json](https://github.com/myproject/monitoring/blob/main/configs/alerts.json) |
