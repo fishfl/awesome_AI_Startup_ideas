@@ -16,5 +16,3 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 
 | ID   | Info               | Detail json URL                                                          |
 |:----:|--------------------|--------------------------------------------------------------------------|
-| 2506.03984 | This paper proposes the first assessment of a language model's ability to reason in both temporal and spatial dimensions, and introduces the language model dataset GeoTemp for evaluation. | [Detail JSON](data/2506.03984.json) |
-
