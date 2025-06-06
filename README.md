@@ -1,9 +1,8 @@
 # awesome_AI_Startup_ideas
 
-## Source
+![ai](./logo.png)
 
 Discover interesting AI ideas (www.everydayai.top)
-![ai](./logo.png)
 
 ## Introduction
 
