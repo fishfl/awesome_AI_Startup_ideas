@@ -1,6 +1,4 @@
-# awesome_AI_Startup_ideas
-
-![ai](./logo.png)
+# ![ai](./logo.png)awesome_AI_Startup_ideas
 
 Discover interesting AI ideas (www.everydayai.top)
 
