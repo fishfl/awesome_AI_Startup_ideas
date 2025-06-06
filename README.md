@@ -1,6 +1,7 @@
-# ![ai](./logo.png)awesome_AI_Startup_ideas
+# awesome_AI_Startup_ideas
 
 Discover interesting AI ideas (www.everydayai.top)
+![ai](./logo.png)
 
 ## Introduction
 
@@ -12,8 +13,6 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 
 ## Detail
 
-| ID   | Info               | Detail json URL                                                               |
+| ID   | Info               | Detail json URL                                                          |
 |:----:|--------------------|--------------------------------------------------------------------------|
-| 101  | Docker 部署文件    | [Dockerfile](https://github.com/myproject/infra/blob/prod/docker/Dockerfile) |
-| 102  | 监控告警配置       | [alerts.json](https://github.com/myproject/monitoring/blob/main/configs/alerts.json) |
-| 103  | API 接口文档       | [swagger.yaml](https://github.com/myproject/docs/blob/develop/api/swagger.yaml) |
+
