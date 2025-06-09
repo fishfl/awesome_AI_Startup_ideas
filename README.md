@@ -21,3 +21,5 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 | unslothai_notebooks | Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more. | [Detail JSON](data/unslothai_notebooks.json) |
 | iib0011_omni-tools | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! | [Detail JSON](data/iib0011_omni-tools.json) |
 | vinta_awesome-python | An opinionated list of awesome Python frameworks, libraries, software and resources. | [Detail JSON](data/vinta_awesome-python.json) |
+| zijie0_HumanSystemOptimization | 健康学习到150岁 - 人体系统调优不完全指南 | [Detail JSON](data/zijie0_HumanSystemOptimization.json) |
+| friuns2_BlackFriday-GPTs-Prompts | List of free GPTs that doesn't require plus subscription | [Detail JSON](data/friuns2_BlackFriday-GPTs-Prompts.json) |
