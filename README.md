@@ -56,3 +56,5 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 | 2507.18305 | Sure, please provide the text you would like translated into English. | [Detail JSON](data/2507.18305.json) |
 | 2508.00591 | This paper proposes a NSFW detection framework based on transformers called Wukong, which utilizes intermediate outputs from early denoising steps and runs during the denoising process, thereby achieving early detection without waiting for the complete image to be generated. | [Detail JSON](data/2508.00591.json) |
 | souzatharsis_podcastfy | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI | [Detail JSON](data/souzatharsis_podcastfy.json) |
+| steveiliop56_tinyauth | The simplest way to protect your apps with a login screen. | [Detail JSON](data/steveiliop56_tinyauth.json) |
+| polarsource_polar | An open source engine for your digital products. Sell SaaS and digital products in minutes. | [Detail JSON](data/polarsource_polar.json) |
