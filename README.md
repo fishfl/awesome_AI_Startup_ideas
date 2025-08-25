@@ -58,3 +58,4 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 | souzatharsis_podcastfy | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI | [Detail JSON](data/souzatharsis_podcastfy.json) |
 | steveiliop56_tinyauth | The simplest way to protect your apps with a login screen. | [Detail JSON](data/steveiliop56_tinyauth.json) |
 | polarsource_polar | An open source engine for your digital products. Sell SaaS and digital products in minutes. | [Detail JSON](data/polarsource_polar.json) |
+| 2508.15030 | Collab-REC is a multi-agent framework that generates travel recommendations from different angles using three agents based on large language models, and combines and optimizes the suggestions through multiple rounds of negotiation to enhance diversity and relevance. | [Detail JSON](data/2508.15030.json) |
