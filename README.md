@@ -67,3 +67,4 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 | NVIDIA_garak | the LLM vulnerability scanner | [Detail JSON](data/NVIDIA_garak.json) |
 | google_material-design-icons | Material Design icons by Google (Material Symbols) | [Detail JSON](data/google_material-design-icons.json) |
 | mxrch_GHunt | 🕵️‍♂️ Offensive Google framework. | [Detail JSON](data/mxrch_GHunt.json) |
+| Arindam200_awesome-ai-apps | A collection of projects showcasing RAG, agents, workflows, and other AI use cases | [Detail JSON](data/Arindam200_awesome-ai-apps.json) |
