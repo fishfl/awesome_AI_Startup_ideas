@@ -69,3 +69,8 @@ Let you to discover the' startup opportunities' of AI project at the fastest spe
 | mxrch_GHunt | 🕵️‍♂️ Offensive Google framework. | [Detail JSON](data/mxrch_GHunt.json) |
 | Arindam200_awesome-ai-apps | A collection of projects showcasing RAG, agents, workflows, and other AI use cases | [Detail JSON](data/Arindam200_awesome-ai-apps.json) |
 | CorentinJ_Real-Time-Voice-Cloning | Clone a voice in 5 seconds to generate arbitrary speech in real-time | [Detail JSON](data/CorentinJ_Real-Time-Voice-Cloning.json) |
+| 2509.12286 | This paper investigates the application of quantum generative adversarial networks (QGANs) in stock price prediction. The results show that QGANs outperform classical models in terms of convergence speed and prediction accuracy. | [Detail JSON](data/2509.12286.json) |
+| 2509.13268 | Research findings show that large language models, when fine-tuned parameter-efficiently based on textual descriptions, can accurately predict energy and macronutrient values from 24-hour dietary recalls of adolescents. | [Detail JSON](data/2509.13268.json) |
+| 2509.12815 | This paper introduces Hunyuan3D Studio, an end-to-end AI content creation platform integrated with advanced neural modules, aimed at revolutionizing the game production pipeline through the automation and simplification of the generation process for game-ready 3D assets. | [Detail JSON](data/2509.12815.json) |
+| Plachtaa_seed-vc | zero-shot voice conversion & singing voice conversion, with real-time support | [Detail JSON](data/Plachtaa_seed-vc.json) |
+| ArthurBrussee_brush | 3D Reconstruction for all | [Detail JSON](data/ArthurBrussee_brush.json) |
