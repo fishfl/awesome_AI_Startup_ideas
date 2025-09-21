@@ -7,71 +7,14 @@ Discover interesting AI ideas (www.everydayai.top)
 ## Introduction
 
 Discover AI startup project from the latest papers and open source repositories, updated everyday.
-﻿
-Select the latest 'good ideas' for AI developer from a massive collection of AI papers and Github repositories, 
-﻿
-Let you to discover the' startup opportunities' of AI project at the fastest speed.
+
+Curate AI research papers and GitHub repositories to inspire AI developers, researchers and entrepreneurs.
+
+The link may invalid if out 30days, then use the detail json.
+
 
 ## Detail
 
-| ID   | Info               | Detail json URL                                                          |
-|:----:|--------------------|--------------------------------------------------------------------------|
-| 2506.03984 | This paper proposes the first assessment of a language model's ability to reason in both temporal and spatial dimensions, and introduces the language model dataset GeoTemp for evaluation. | [Detail JSON](data/2506.03984.json) |
-| 2506.05080 | This article proposes an interpretable image-based framework to evaluate the commercial vitality of community streets in Harbin, China, by analyzing the impact of street features such as parking density,绿化译为"greening"，清洁度译为"cleanliness"，和街道宽度译为"street width" on retail performance and user satisfaction. | [Detail JSON](data/2506.05080.json) |
-| unslothai_notebooks | Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more. | [Detail JSON](data/unslothai_notebooks.json) |
-| iib0011_omni-tools | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! | [Detail JSON](data/iib0011_omni-tools.json) |
-| vinta_awesome-python | An opinionated list of awesome Python frameworks, libraries, software and resources. | [Detail JSON](data/vinta_awesome-python.json) |
-| zijie0_HumanSystemOptimization | 健康学习到150岁 - 人体系统调优不完全指南 | [Detail JSON](data/zijie0_HumanSystemOptimization.json) |
-| friuns2_BlackFriday-GPTs-Prompts | List of free GPTs that doesn't require plus subscription | [Detail JSON](data/friuns2_BlackFriday-GPTs-Prompts.json) |
-| 2506.12594 | This paper summarizes the latest advancements of over 80 deep study systems (AI-powered applications) that have emerged since 2023, and proposes a new hierarchical classification method to categorize these systems. | [Detail JSON](data/2506.12594.json) |
-| 2506.13217 | This paper proposes a new machine learning approach called Polyra Swarms for shape approximation rather than function approximation, and explores its advantages in tasks such as anomaly detection and its automated abstraction mechanisms. | [Detail JSON](data/2506.13217.json) |
-| 2506.12008 | This article proposes a multimodal system that responds to dance movements by intelligently combining pre-recorded music segments, allowing dancers to both perform and compose, thereby establishing a bidirectional creative partnership between dance and music. | [Detail JSON](data/2506.12008.json) |
-| immich-app_immich | High performance self-hosted photo and video management solution. | [Detail JSON](data/immich-app_immich.json) |
-| linshenkx_prompt-optimizer | 一款提示词优化器，助力于编写高质量的提示词 | [Detail JSON](data/linshenkx_prompt-optimizer.json) |
-| 2506.14111 | Essential-Web v1.0 is a 24 trillion-word annotated dataset that includes twelve categories of taxonomy labels and can obtain high-quality subsets for multiple fields through simple SQL filtering. | [Detail JSON](data/2506.14111.json) |
-| 2506.14511 | This paper proposes an end-to-end framework for micro-expression recognition that integrates the ideas of transformer, graph convolution, and convolution. It introduces a new F5C module that directly extracts local-global features from raw frame sequences. Additionally, it addresses the issue of insufficient training data by jointly training optical flow estimation and facial landmark detection tasks. | [Detail JSON](data/2506.14511.json) |
-| 2506.15421 | This paper provides a comprehensive review of reward modeling techniques in reinforcement learning, covering background, method classification, applications, evaluation methods, and future research directions. | [Detail JSON](data/2506.15421.json) |
-| 2506.15675 | This article introduces Sekai, a first-person video dataset containing over 5,000 hours of footage from more than 750 cities across over 100 countries and regions around the world, used for world exploration. | [Detail JSON](data/2506.15675.json) |
-| ManimCommunity_manim | A community-maintained Python framework for creating mathematical animations. | [Detail JSON](data/ManimCommunity_manim.json) |
-| ollama_ollama | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. | [Detail JSON](data/ollama_ollama.json) |
-| 2506.15880 | This article proposes a deep reinforcement learning system combining neural networks and Monte Carlo tree search for chess (self-play and self-improvement) to address the complexity challenges of chess. | [Detail JSON](data/2506.15880.json) |
-| 2506.15879 | This paper proposes a machine learning method prototype that uses a large-scale synthetic job listing dataset. It employs regression, classification, clustering, and natural language processing techniques to identify trends, predict salaries, and categorize similar positions, thereby revealing key factors influencing labor market dynamics and providing valuable insights for job seekers, employers, and researchers. | [Detail JSON](data/2506.15879.json) |
-| 2507.00012 | This paper proposes a new training method called CMIM, which trains the model by minimizing the cross-entropy loss and the conditional mutual information of the output probability distribution after temperature normalization. It is also shown that the resulting CMIM model is distillable. | [Detail JSON](data/2507.00012.json) |
-| 2507.00022 | This paper proposes a new attention mechanism called GLU Attention, which improves model performance and convergence speed by introducing nonlinearity into the attention values, without requiring additional parameters or extra computational cost. | [Detail JSON](data/2507.00022.json) |
-| 2507.00037 | This paper proposes a neuron-based model fusion algorithm that can effectively combine multiple pre-trained neural networks into one network under different training data distributions. | [Detail JSON](data/2507.00037.json) |
-| 2507.00390 | This paper proposes a novel expert pruning method called Mixture-of-Novices-and-Experts (MoNE), which achieves effective model compression by replacing redundant experts with lightweight "novices." It demonstrates superior performance over baseline methods across multiple dimensions. | [Detail JSON](data/2507.00390.json) |
-| 2507.01945 | This paper proposes a new long animation coloring framework called LongAnimation, which extracts globally-consistent features relevant to the current generation through a dynamic global-local paradigm to achieve ideal long-term color consistency. | [Detail JSON](data/2507.01945.json) |
-| smallcloudai_refact | AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. | [Detail JSON](data/smallcloudai_refact.json) |
-| vosen_ZLUDA | CUDA on non-NVIDIA GPUs | [Detail JSON](data/vosen_ZLUDA.json) |
-| 2507.04136 | This paper reviews the integration of reinforcement learning (RL) with large language models (LLMs), providing a detailed introduction to various RL algorithms and methods, and analyzing their applications and challenges in different fields. | [Detail JSON](data/2507.04136.json) |
-| 2507.03721 | This article utilizes a large language model to generate a CFA score for a startup pitch and trains a machine learning model to achieve high-precision prediction of investment decisions for startup projects. This approach overcomes the limitations of the original methods and enhances the scalability of decision-making. | [Detail JSON](data/2507.03721.json) |
-| 2507.06670 | This paper presents STARS, a unified framework that simultaneously addresses singing transcription, alignment, and fine-grained style annotation, providing a performance-enhanced and style-controllable dataset for training singing voice synthesis. | [Detail JSON](data/2507.06670.json) |
-| 2507.07935 | The study analyzed 200,000 anonymous conversations between users and Microsoft Bing Copilot (an open generative AI system) to assess the potential application of AI in different professions, and found that knowledge-based occupations such as computer and mathematics, and office and administrative support roles had the highest AI applicability scores. | [Detail JSON](data/2507.07935.json) |
-| 2507.12732 | This paper proposes a method for switching predefined strategies based on player attitudes and dialogue context to improve the performance of Werewolf agents. The effectiveness of the proposed method is verified through comparisons with baseline agents using implicit or fixed strategies. | [Detail JSON](data/2507.12732.json) |
-| remoteintech_remote-jobs | A list of semi to fully remote-friendly companies (jobs) in tech. | [Detail JSON](data/remoteintech_remote-jobs.json) |
-| 2507.15600 | This article reveals the polarizing and issue alliance mechanisms in the public domain through the analysis of opposing narratives, and provides findings such as narrative alignment. | [Detail JSON](data/2507.15600.json) |
-| 2507.13839 | The study, which analyzed a corpus of 735 online counseling dialogues, found that the frequency of negative emotional words was significantly positively correlated with depressive and anxious states. In contrast, the frequency of first-person singular pronouns showed no significant association with psychological states, highlighting the influence of cultural and conversational context on the language used in mental health communication. | [Detail JSON](data/2507.13839.json) |
-| Sjj1024_PakePlus | Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟.https://ppofficial.netlify.app | [Detail JSON](data/Sjj1024_PakePlus.json) |
-| steven2358_awesome-generative-ai | A curated list of modern Generative Artificial Intelligence projects and services | [Detail JSON](data/steven2358_awesome-generative-ai.json) |
-| 2507.18305 | Sure, please provide the text you would like translated into English. | [Detail JSON](data/2507.18305.json) |
-| 2508.00591 | This paper proposes a NSFW detection framework based on transformers called Wukong, which utilizes intermediate outputs from early denoising steps and runs during the denoising process, thereby achieving early detection without waiting for the complete image to be generated. | [Detail JSON](data/2508.00591.json) |
-| souzatharsis_podcastfy | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI | [Detail JSON](data/souzatharsis_podcastfy.json) |
-| steveiliop56_tinyauth | The simplest way to protect your apps with a login screen. | [Detail JSON](data/steveiliop56_tinyauth.json) |
-| polarsource_polar | An open source engine for your digital products. Sell SaaS and digital products in minutes. | [Detail JSON](data/polarsource_polar.json) |
-| 2508.15030 | Collab-REC is a multi-agent framework that generates travel recommendations from different angles using three agents based on large language models, and combines and optimizes the suggestions through multiple rounds of negotiation to enhance diversity and relevance. | [Detail JSON](data/2508.15030.json) |
-| 2508.15998 | This paper provides a comprehensive review of quantum federated learning (QFL), exploring its key concepts, fundamental principles, application scenarios, and emerging challenges. | [Detail JSON](data/2508.15998.json) |
-| 2508.16447 | This research explored whether advanced large language models could generate board game code from natural language rule descriptions by having three of the most advanced large language models produce code for 12 board games, and analyzed their success rates and common errors. | [Detail JSON](data/2508.16447.json) |
-| 2509.04130 | Although AI systems may be superior to humans in virtually every aspect and change our society, the best foundation for leading our universe remains DNA, not silicon. | [Detail JSON](data/2509.04130.json) |
-| 2509.04159 | This article proposes a domain-specific language for an extended domain, representing recipes as directed action graphs to capture the workflow, transitions, environment, concurrency, and compositional structure in cooking processes. This provides an accurate and modular modeling for complex cooking workflows. | [Detail JSON](data/2509.04159.json) |
-| 2509.08827 | This paper reviews the latest advancements in using reinforcement learning to enhance the reasoning capabilities of large language models, and explores the challenges and strategies involved in further extending reinforcement learning to achieve artificial superintelligence. | [Detail JSON](data/2509.08827.json) |
-| NVIDIA_garak | the LLM vulnerability scanner | [Detail JSON](data/NVIDIA_garak.json) |
-| google_material-design-icons | Material Design icons by Google (Material Symbols) | [Detail JSON](data/google_material-design-icons.json) |
-| mxrch_GHunt | 🕵️‍♂️ Offensive Google framework. | [Detail JSON](data/mxrch_GHunt.json) |
-| Arindam200_awesome-ai-apps | A collection of projects showcasing RAG, agents, workflows, and other AI use cases | [Detail JSON](data/Arindam200_awesome-ai-apps.json) |
-| CorentinJ_Real-Time-Voice-Cloning | Clone a voice in 5 seconds to generate arbitrary speech in real-time | [Detail JSON](data/CorentinJ_Real-Time-Voice-Cloning.json) |
-| 2509.12286 | This paper investigates the application of quantum generative adversarial networks (QGANs) in stock price prediction. The results show that QGANs outperform classical models in terms of convergence speed and prediction accuracy. | [Detail JSON](data/2509.12286.json) |
-| 2509.13268 | Research findings show that large language models, when fine-tuned parameter-efficiently based on textual descriptions, can accurately predict energy and macronutrient values from 24-hour dietary recalls of adolescents. | [Detail JSON](data/2509.13268.json) |
-| 2509.12815 | This paper introduces Hunyuan3D Studio, an end-to-end AI content creation platform integrated with advanced neural modules, aimed at revolutionizing the game production pipeline through the automation and simplification of the generation process for game-ready 3D assets. | [Detail JSON](data/2509.12815.json) |
-| Plachtaa_seed-vc | zero-shot voice conversion & singing voice conversion, with real-time support | [Detail JSON](data/Plachtaa_seed-vc.json) |
-| ArthurBrussee_brush | 3D Reconstruction for all | [Detail JSON](data/ArthurBrussee_brush.json) |
-| 2509.13677 | This paper introduces a novel scalable framework called AgentCTG, which enhances the precision and complex control of text generation by simulating control and regulation mechanisms in multi-agent workflows, and achieves state-of-the-art results on multiple public datasets. | [Detail JSON](data/2509.13677.json) |
+| ID   | title              | category  | Info                           | Url(Only latest 30days valid)  | Detail json URL                |
+|:----:|--------------------|-----------|--------------------------------|--------------------------------|--------------------------------|
+
