@@ -15,7 +15,7 @@ The link may invalid if out 30days, then use the detail json.
 
 ## Detail
 
-| ID   | title | date | category  | Info                           |Url(Only latest 30days valid)| Detail json URL |
+| ID   | title | date | category  | Info                           |URL(Only latest 30days valid)| Detail json URL |
 |:----:|-------|------|-----------|--------------------------------|-----------------------------|-----------------|
 
 
