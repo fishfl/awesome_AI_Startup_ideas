@@ -1,0 +1,53 @@
+{
+    "id": "/DIYgod/RSSHub",
+    "issues": "354",
+    "watch": "368",
+    "fork": "8.6k",
+    "star": "39.1k",
+    "topics": [
+        "rss",
+        "spotify",
+        "instagram",
+        "youtube",
+        "twitter",
+        "telegram",
+        "dribbble",
+        "zhihu",
+        "wechat",
+        "bilibili",
+        "weibo",
+        "pixiv",
+        "douban",
+        "v2ex",
+        "lofter",
+        "ximalaya",
+        "rsshub",
+        "tiktok"
+    ],
+    "license": "MIT License",
+    "languages": [
+        "TypeScript,91.1%",
+        "JavaScript,8.8%"
+    ],
+    "contributors": [
+        "https://avatars.githubusercontent.com/u/8266075?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/11386903?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/42264778?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/5896343?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/17120571?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/69753389?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/31068367?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/5186792?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/9067094?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/65916846?s=64&v=4"
+    ],
+    "about": "🧡 Everything is RSSible",
+    "is_AI": "n",
+    "category": "Web Crawlers",
+    "summary": "- **Core Content and Problem Solved**:  \n  RSSHub is the world's largest RSS network, comprising over 5,000 global instances. It transforms diverse content sources—such as websites, social media platforms, and online services—into standardized RSS feed formats. RSSHub addresses the challenge of fragmented internet content and the growing number of platforms discontinuing RSS support, thereby enabling users to efficiently aggregate and track their favorite content via RSS.\n\n- **Breakthroughs and Innovations**:  \n  RSSHub benefits from a large and active open-source community that continuously expands routes, adds new features, and resolves issues at high speed. Its ecosystem of companion tools—including RSSHub Radar, RSSBud, and RSSAid—covers browsers, iOS, and Android platforms, enabling seamless cross-device subscription experiences. Additionally, RSSHub provides comprehensive documentation and deployment options, supporting global, distributed deployment and fostering a scalable, sustainable, decentralized RSS network.",
+    "text": "RSSHub\n🧡 Everything is RSSible\nIntroduction\nRSSHub is the world's largest RSS network, consisting of over 5,000 global instances.\nRSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes.\nDocumentation\n|\nTelegram Group\n|\nTelegram Channel\n|\nX (Twitter)\nRelated Projects\nRSSHub Radar\n| A browser extension that can help you quickly discover and subscribe to the RSS and RSSHub of current websites.\nRSSBud\n| RSSHub Radar for iOS platform, designed specifically for mobile ecosystem optimization.\nRSSAid\n| RSSHub Radar for Android platform built with Flutter.\nDocSearch\n| Link RSSHub DocSearch into Raycast\nContribute\nWe welcome all pull requests. Suggestions and feedback are also welcomed\nhere\n.\nRefer to\nQuick Start\nDeployment\nRefer to\nDeployment\nSpecial Thanks\nLogo designer\nsheldonrrr\nAuthor\nRSSHub\n©\nDIYgod\n, Released under the\nMIT\nLicense.\nAuthored and maintained by DIYgod with help from contributors (\nlist\n).\nBlog\n@DIYgod\n· GitHub\n@DIYgod\n· X (Twitter)\n@DIYgod\n· Telegram Channel\n@awesomeDIYgod",
+    "readme": "<p align=\"center\">\n<img src=\"https://docs.rsshub.app/img/logo.png\" alt=\"RSSHub\" width=\"100\">\n</p>\n<h1 align=\"center\">RSSHub</h1>\n\n> 🧡 Everything is RSSible\n\n[![](https://img.shields.io/badge/dynamic/json?url=https://rsshub-analytics.diygod.workers.dev/&query=requests&color=F38020&label=requests&logo=cloudflare&style=flat-square&suffix=/month)](https://rsshub.app)\n[![docker publish](https://img.shields.io/docker/pulls/diygod/rsshub?label=docker%20pulls&logo=docker&style=flat-square)](https://hub.docker.com/r/diygod/rsshub)\n[![npm publish](https://img.shields.io/npm/dt/rsshub?label=npm%20downloads&logo=npm&style=flat-square)](https://www.npmjs.com/package/rsshub)\n[![test](https://img.shields.io/github/actions/workflow/status/DIYgod/RSSHub/test.yml?branch=master&label=test&logo=github&style=flat-square)](https://github.com/DIYgod/RSSHub/actions/workflows/test.yml?query=event%3Apush+branch%3Amaster)\n[![Test coverage](https://img.shields.io/codecov/c/github/DIYgod/RSSHub.svg?style=flat-square&logo=codecov)](https://app.codecov.io/gh/DIYgod/RSSHub/branch/master)\n[![Visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FDIYgod%2FRSSHub&label=RSS+lovers&icon=rss-fill&color=%23ff752e)](https://github.com/DIYgod/RSSHub)\n\n[![Telegram group](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Frsshub&query=count&color=2CA5E0&label=Telegram%20Group&logo=telegram&cacheSeconds=3600&style=flat-square)](https://t.me/rsshub) [![Telegram channel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2FawesomeRSSHub&query=count&color=2CA5E0&label=Telegram%20Channel&logo=telegram&cacheSeconds=3600&style=flat-square)](https://t.me/awesomeRSSHub) [![X (Twitter)](https://img.shields.io/badge/any_text-Follow-blue?color=2CA5E0&label=Twitter&logo=X&cacheSeconds=3600&style=flat-square)](https://x.com/intent/follow?screen_name=_RSSHub)\n\n## Introduction\n\nRSSHub is the world's largest RSS network, consisting of over 5,000 global instances.\n\nRSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes.\n\n[Documentation](https://docs.rsshub.app) | [Telegram Group](https://t.me/rsshub) | [Telegram Channel](https://t.me/awesomeRSSHub) | [X (Twitter)](https://x.com/intent/follow?screen_name=_RSSHub)\n\n## Related Projects\n\n-   [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) | A browser extension that can help you quickly discover and subscribe to the RSS and RSSHub of current websites.\n-   [RSSBud](https://github.com/Cay-Zhang/RSSBud) | RSSHub Radar for iOS platform, designed specifically for mobile ecosystem optimization.\n-   [RSSAid](https://github.com/LeetaoGoooo/RSSAid) | RSSHub Radar for Android platform built with Flutter.\n-   [DocSearch](https://github.com/Fatpandac/DocSearch) | Link RSSHub DocSearch into Raycast\n\n## Contribute\n\nWe welcome all pull requests. Suggestions and feedback are also welcomed [here](https://github.com/DIYgod/RSSHub/issues).\n\nRefer to [Quick Start](https://docs.rsshub.app/joinus/)\n\n## Deployment\n\nRefer to [Deployment](https://docs.rsshub.app/deploy/)\n\n## Special Thanks\n\n<div align=\"center\">\n\n[![](https://opencollective.com/RSSHub/contributors.svg?width=890)](https://github.com/DIYgod/RSSHub/graphs/contributors)\n\nLogo designer [sheldonrrr](https://dribbble.com/sheldonrrr)\n\n[![](https://raw.githubusercontent.com/DIYgod/sponsors/main/sponsors.simple.svg)](https://github.com/DIYgod/sponsors)\n\n<a href=\"https://www.cloudflare.com\" target=\"_blank\"><img height=\"50px\" src=\"https://i.imgur.com/7Ph27Fq.png\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.netlify.com\" target=\"_blank\"><img height=\"40px\" src=\"https://i.imgur.com/cU01915.png\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://1password.com\" target=\"_blank\"><img height=\"40px\" src=\"https://i.imgur.com/a2XjflO.png\"></a>\n</div>\n\n## Author\n\n**RSSHub** © [DIYgod](https://github.com/DIYgod), Released under the [MIT](./LICENSE) License.<br>\nAuthored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYgod/RSSHub/contributors)).\n\n> Blog [@DIYgod](https://diygod.cc) · GitHub [@DIYgod](https://github.com/DIYgod) · X (Twitter) [@DIYgod](https://x.com/DIYgod) · Telegram Channel [@awesomeDIYgod](https://t.me/awesomeDIYgod)\n",
+    "author": "DIYgod",
+    "project": "RSSHub",
+    "date": "2025-10-13"
+}
