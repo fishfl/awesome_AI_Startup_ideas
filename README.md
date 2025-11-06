@@ -16,5 +16,6 @@ Stay ahead of the curve and never miss a game-changing AI breakthrough. Whether 
 
 | ID   | date | title | category |               Info              | URL |
 |:----:|------|-------|----------|---------------------------------|-----|
+| 2511.02791 | 2025-11-06 | AI-Generated Image Detection: An Empirical Study and Future Research Directions | Algorithms and Models | This paper introduces a unified benchmark framework for systematically evaluating forgery detection methods under controlled and reproducible conditions, and through extensive evaluation, it reveals significant differences in the generalization capabilities of existing methods. | [site link](https://everydayai.top/adetail.html?id=2511.02791) |
 
 
