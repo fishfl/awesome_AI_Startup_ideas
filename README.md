@@ -16,5 +16,6 @@ Stay ahead of the curve and never miss a game-changing AI breakthrough. Whether 
 
 | ID   | date | title | category |               Info              | URL |
 |:----:|------|-------|----------|---------------------------------|-----|
+| thinking-machines-lab_tinker-cookbook | 2025-11-10 | tinker-cookbook | Language Model Frameworks | Post-training with Tinker | [site link](https://everydayai.top/gdetail.html?id=thinking-machines-lab_tinker-cookbook) |
 
 
