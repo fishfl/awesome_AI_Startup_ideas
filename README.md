@@ -16,6 +16,8 @@ Stay ahead of the curve and never miss a game-changing AI breakthrough. Whether 
 
 | ID   | date | title | category |               Info              | URL |
 |:----:|------|-------|----------|---------------------------------|-----|
+| 2511.06185 | 2025-11-12 | Dataforge: A Data Agent Platform for Autonomous Data Engineering | Algorithms and Models | This paper introduces an entirely automated system called Data Agent, which can automatically handle the cleaning, hierarchical routing, and feature optimization of tabular data without any human supervision. The aim is to address scalability and expertise dependency issues in the data preparation process. | [site link](https://everydayai.top/adetail.html?id=2511.06185) |
+| 2511.05874 | 2025-11-12 | An Empirical Study of Reasoning Steps in Thinking Code LLMs | Theoretical Foundations | This study comprehensively evaluated the reasoning processes and quality of six advanced code generation thought-type large language models, and revealed the impact of task complexity on reasoning quality, as well as the advantages and limitations of thought-type large language models. | [site link](https://everydayai.top/adetail.html?id=2511.05874) |
 | thinking-machines-lab_tinker-cookbook | 2025-11-10 | tinker-cookbook | Language Model Frameworks | Post-training with Tinker | [site link](https://everydayai.top/gdetail.html?id=thinking-machines-lab_tinker-cookbook) |
 
 
