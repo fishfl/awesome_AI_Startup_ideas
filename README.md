@@ -16,6 +16,8 @@ Stay ahead of the curve and never miss a game-changing AI breakthrough. Whether 
 
 | ID   | date | title | category |               Info              | URL |
 |:----:|------|-------|----------|---------------------------------|-----|
+| vm0-ai_vm0 | 2026-02-04 | vm0 | Agent/Robot | the easiest way to run natural language-described workflows automatically | [site link](https://everydayai.top/gdetail.html?id=vm0-ai_vm0) |
+| openai_skills | 2026-02-04 | skills | Agent/Robot | Skills Catalog for Codex | [site link](https://everydayai.top/gdetail.html?id=openai_skills) |
 | vita-epfl_Stable-Video-Infinity | 2026-02-03 | Stable-Video-Infinity | Language Model Frameworks | [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling | [site link](https://everydayai.top/gdetail.html?id=vita-epfl_Stable-Video-Infinity) |
 | amantus-ai_vibetunnel | 2026-02-03 | vibetunnel | Agent/Robot | Turn any browser into your terminal & command your agents on the go. | [site link](https://everydayai.top/gdetail.html?id=amantus-ai_vibetunnel) |
 | pedramamini_Maestro | 2026-02-03 | Maestro | Agent/Robot | Agent Orchestration Command Center | [site link](https://everydayai.top/gdetail.html?id=pedramamini_Maestro) |
